@@ -44,6 +44,8 @@ window.WEDDING_DATA = {
 
   images: {
     couple: "./editable/assets/couple.png",
+    groom: "./editable/assets/groom.png",
+    bride: "./editable/assets/bride.png",
     footerBg: "./editable/assets/footer-bg.jpg",
     map: "./editable/assets/map.jpg",
   },
