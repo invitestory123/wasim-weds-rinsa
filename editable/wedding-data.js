@@ -26,7 +26,7 @@ window.WEDDING_DATA = {
   },
 
   invitation: {
-    note: "Together with their parents\nC.P. Kunhimohamed & Shameera T.K.\nand\nRaihanath & Ismail\n\nWasim Mohamed\n&\nRinsa T.C.\n\nrequest the honour of your presence to celebrate their wedding & Nikkah ceremony — an auspicious day of love, blessings, and togetherness.\n\nLunch to follow.",
+    note: "Together with their parents,\nC.P. Kunhimohamed & Shameera T.K.\nand\nRaihanath & Ismail,\n\nWasim Mohamed & Rinsa T.C.\nrequest the honour of your presence\nas they celebrate their Wedding & Nikkah Ceremony—\nan auspicious day of love, blessings, and togetherness.\n\nLunch to follow.",
     closing: "With love & prayers",
   },
 
