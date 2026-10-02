@@ -12,7 +12,7 @@
     (typeof window !== "undefined" && window.__FORCE_COMPLIMENTS__ === true)
   );
 
-  const standardNote = "Together with their parents,\nC.P. Kunhimohamed & Shameera T.K.\nand\nIsmail & Raihanath\n\nWasim Mohamed & Rinsa T.C.\nrequest the honour of your presence\nas they celebrate their Wedding & Nikkah Ceremony- an auspicious day of love, blessings, and togetherness.";
+  const standardNote = "Together with their parents,\nC.P. Kunhimohamed & Shameera T.K.\nand Ismail & Raihanath.\n\nWasim Mohamed & Rinsa T.C.\nrequest the honour of your presence\nas they celebrate their Wedding & Nikkah Ceremony- an auspicious day of love, blessings, and togetherness.";
 
   const complimentsNote = standardNote + "\n\nWith best compliments\nFidha, iza and Chloe";
 
