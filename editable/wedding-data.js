@@ -5,12 +5,7 @@
 
 (function () {
   const URLSearchParamsClass = typeof URLSearchParams !== "undefined" ? URLSearchParams : (typeof window !== "undefined" ? window.URLSearchParams : null);
-  const urlParams = (URLSearchParamsClass && typeof window !== "undefined" && window.location) ? new URLSearchParamsClass(window.location.search) : null;
-  const isCompliments = Boolean(
-    (urlParams && (urlParams.has("compliments") || urlParams.get("v") === "compliments" || urlParams.has("c") || urlParams.get("with") === "compliments")) ||
-    (typeof window !== "undefined" && window.location && window.location.pathname.toLowerCase().includes("compliments")) ||
-    (typeof window !== "undefined" && window.__FORCE_COMPLIMENTS__ === true)
-  );
+  const isCompliments = true;
 
   const standardNote = "Together with their parents,\nC.P. Kunhimohamed & Shameera T.K.\nand Ismail & Raihanath.\n\nWasim Mohamed & Rinsa T.C.\nrequest the honour of your presence\nas they celebrate their Wedding & Nikkah Ceremony- an auspicious day of love, blessings, and togetherness.";
 
