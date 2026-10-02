@@ -8,8 +8,8 @@ window.WEDDING_DATA = {
     groom: "Wasim",
     bride: "Rinsa",
     groomFull: "Wasim Mohamed",
-    brideFull: "Rinsa T.C.",
-    groomParents: "C.P. Kunhimohamed & Shameera T.K.",
+    brideFull: "Rinsa T. C.",
+    groomParents: "C. P. Kunhimohamed & Shameera T. K.",
     brideParents: "Ismail & Raihanath",
   },
 
@@ -26,12 +26,12 @@ window.WEDDING_DATA = {
   },
 
   invitation: {
-    note: "Together with their parents, C.P. Kunhimohamed & Shameera T.K. and Ismail & Raihanath. Wasim Mohamed & Rinsa T.C. request the honour of your presence as they celebrate their Wedding & Nikkah Ceremony- an auspicious day of love, blessings, and togetherness.\n\nWith best compliments\nFidha, iza and Chloe",
+    note: "Together with their beloved parents, C. P. Kunhimohamed & Shameera T. K. and Ismail & Raihanath, Wasim Mohamed & Rinsa T. C. request the honour of your presence as they celebrate their Wedding & Nikkah Ceremony and begin a beautiful journey of love, blessings, and togetherness. With best compliments from Fidha, Iza & Chloe.",
     closing: "With love & prayers",
   },
 
   venue: {
-    name: "Conventional Hall, The Raviz Kadavu",
+    name: "Convention Hall, The Raviz Kadavu",
     address: "NH 66, Bypass Road, Azhinjillam, Calicut, Kerala 673632",
     city: "Calicut",
     query: "The Raviz Kadavu, Calicut",
